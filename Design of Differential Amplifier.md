@@ -42,7 +42,7 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 
 ## DESIGN
 
-<img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" />
+<img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" /> 
 
 ## TABULATION:
 
